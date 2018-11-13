@@ -51,7 +51,7 @@ Der Name wird im Backend als auch im Frontend angezeigt. Die Anzeige des Namens 
 Im Feld Beschreibung kann eine längere Erklärung zum Feld eingegeben werden. Die Beschreibung wird im Backend gekürzt angezeigt, erst wenn mit der Maus über den Beschreibungstext gefahren wird, wird der vollständige Text angezeigt.
 Der Beschreibungstext sorgt das eine Barrierefreiheit erreicht wird.
 
-Im Abschnitt *++Erweiterte Einstellungen++* des Attributes können, wie bereit oben erwähnt verschiedene Einstellungen vorgenommen werden.
+Im Abschnitt **+Erweiterte Einstellungen+** des Attributes können, wie bereit oben erwähnt verschiedene Einstellungen vorgenommen werden.
 
 ![II Erweiterte Einstellungen (Alias).png](http://)
 

@@ -33,7 +33,7 @@ Im Auswahlfenster des Attributs „Alias“ können folgende Einstellungen vorge
 - Alias-Postfix
 - Alias-Felder
 
-Im Abschnitt *++Typ, Benennung und Grundeinstellungen des Attributes++* können, wie bereits oben erwähnt verschiedene Einstellungen vorgenommen werden
+Im Abschnitt **Typ, Benennung und Grundeinstellungen des Attributes** können, wie bereits oben erwähnt verschiedene Einstellungen vorgenommen werden
 
 ![I. Typ, Benennung und Grundeinstellungen des Attributes (Alias).png
 ](http://)
@@ -51,7 +51,7 @@ Der Name wird im Backend als auch im Frontend angezeigt. Die Anzeige des Namens 
 Im Feld Beschreibung kann eine längere Erklärung zum Feld eingegeben werden. Die Beschreibung wird im Backend gekürzt angezeigt, erst wenn mit der Maus über den Beschreibungstext gefahren wird, wird der vollständige Text angezeigt.
 Der Beschreibungstext sorgt das eine Barrierefreiheit erreicht wird.
 
-Im Abschnitt **+Erweiterte Einstellungen+** des Attributes können, wie bereit oben erwähnt verschiedene Einstellungen vorgenommen werden.
+Im Abschnitt **Erweiterte Einstellungen** des Attributes können, wie bereit oben erwähnt verschiedene Einstellungen vorgenommen werden.
 
 ![II Erweiterte Einstellungen (Alias).png](http://)
 
@@ -65,7 +65,7 @@ Wählen Sie diese Option, wenn Sie sicherstellen möchten dass jeder Wert nur ei
 Auswählen, um eine Neuerstellung des Alias zu erzwingen, wenn sich eines der abhängigen Felder ändert. Beachten Sie, dass bisherige URLs dadurch ungültig werden können.
 
 
-Im Abschnitt *++Anzeigeeinstellungen++* des Attributes können, wie bereits oben erwähnt verschiedene Einstellungen vorgenommen werden:
+Im Abschnitt **Anzeigeeinstellungen** des Attributes können, wie bereits oben erwähnt verschiedene Einstellungen vorgenommen werden:
 
 ![III. Anzeigeeinstellungen (Alias).png](http://)
 

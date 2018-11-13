@@ -34,16 +34,16 @@ Im Abschnitt **Typ, Benennung und Grundeinstellungen des Attributes** können, w
 ![I. Typ, Benennung und Grundeinstellungen des Attributes (Alias).png
 ](http://)
 
-- Attribut-Typ
+- Attribut-Typ <br/>
 Hier wurde der Attribut-Typ „Alias“ ausgewählt. Bei der Auswahl eines anderen Attribut-Typs verändern sich die möglichen Einstellungen.
 
-- Spaltenname
+- Spaltenname <br/>
 Der Spaltenname sollte möglichst eindeutig gewählt werden. Auf Sonderzeichen sollte unbedingt verzichtet werden. Der Spaltennamen entspricht dem späteren Namen unter dem die Informationen in der Datenbank gespeichert werden.
 
-- Name
+- Name <br/>
 Der Name wird im Backend als auch im Frontend angezeigt. Die Anzeige des Namens kann im Frontend abgeschaltet werden. (siehe hierzu ....)
 
-- Beschreibung
+- Beschreibung <br/>
 Im Feld Beschreibung kann eine längere Erklärung zum Feld eingegeben werden. Die Beschreibung wird im Backend gekürzt angezeigt, erst wenn mit der Maus über den Beschreibungstext gefahren wird, wird der vollständige Text angezeigt.
 Der Beschreibungstext sorgt das eine Barrierefreiheit erreicht wird.
 
@@ -51,13 +51,13 @@ Im Abschnitt **Erweiterte Einstellungen** des Attributes können, wie bereit obe
 
 ![II Erweiterte Einstellungen (Alias).png](http://)
 
-- Varianten überschreiben
+- Varianten überschreiben <br/>
   Anwählen, falls Sie innerhalb des MetaModels Varianten wünschen um Elternwerte zu überschreiben.
 
-- Eindeutige Werte
+- Eindeutige Werte <br/>
   Wählen Sie diese Option, wenn Sie sicherstellen möchten dass jeder Wert nur einmal vorkommen kann.
 
-- Neuerstellung des Alias erzwingen.
+- Neuerstellung des Alias erzwingen. <br/>
   Auswählen, um eine Neuerstellung des Alias zu erzwingen, wenn sich eines der abhängigen Felder ändert. Beachten Sie, dass   bisherige URLs dadurch ungültig werden können.
 
 
@@ -65,13 +65,13 @@ Im Abschnitt **Anzeigeeinstellungen** des Attributes können, wie bereits oben e
 
 ![III. Anzeigeeinstellungen (Alias).png](http://)
 
-- Alias-Präfix
+- Alias-Präfix <br/>
   Optionale Angabe eines Präfix für die Erstellung des Alias.
 
-- Alias-Postfix
+- Alias-Postfix <br/>
   Optionale Angabe eines Postfix für die Erstellung des Alias.
 
-- Alias-Felder
+- Alias-Felder <br/>
   Auswählen, um eine Neuerstellung des Alias zu erzwingen, wenn sich eines der abhängigen Felder ändert. Beachten Sie, dass               bisherige URLs dadurch ungültig werden können.
 
 
@@ -81,11 +81,11 @@ Im Abschnitt **Anzeigeeinstellungen** des Attributes können, wie bereits oben e
 
 Im Auswahlfenster für das Rendering können folgende Einstellungen vorgenommen werden:
 
-- Attribut
+- Attribut <br/>
   Hier das jeweilige Attribut ausgewählt. In diesem Fall wäre dies das Attribut "Alias"
 
-- Angepasstes Template für die Ausgabe
+- Angepasstes Template für die Ausgabe <br/>
   Als Standard ist das Template "mm_attr_alias" ausgewählt.
 
-- Eigene CSS-Klasse
+- Eigene CSS-Klasse <br/>
   Hier kann für das jeweilige Alias-Attribut eine eigene CSS-Klasse festegelegt werden.

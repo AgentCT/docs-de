@@ -52,13 +52,13 @@ Im Abschnitt **Erweiterte Einstellungen** des Attributes können, wie bereit obe
 ![II Erweiterte Einstellungen (Alias).png](http://)
 
 - Varianten überschreiben
-Anwählen, falls Sie innerhalb des MetaModels Varianten wünschen um Elternwerte zu überschreiben.
+  Anwählen, falls Sie innerhalb des MetaModels Varianten wünschen um Elternwerte zu überschreiben.
 
 - Eindeutige Werte
-Wählen Sie diese Option, wenn Sie sicherstellen möchten dass jeder Wert nur einmal vorkommen kann.
+  Wählen Sie diese Option, wenn Sie sicherstellen möchten dass jeder Wert nur einmal vorkommen kann.
 
 - Neuerstellung des Alias erzwingen.
-Auswählen, um eine Neuerstellung des Alias zu erzwingen, wenn sich eines der abhängigen Felder ändert. Beachten Sie, dass bisherige URLs dadurch ungültig werden können.
+  Auswählen, um eine Neuerstellung des Alias zu erzwingen, wenn sich eines der abhängigen Felder ändert. Beachten Sie, dass   bisherige URLs dadurch ungültig werden können.
 
 
 Im Abschnitt **Anzeigeeinstellungen** des Attributes können, wie bereits oben erwähnt verschiedene Einstellungen vorgenommen werden:
@@ -66,13 +66,13 @@ Im Abschnitt **Anzeigeeinstellungen** des Attributes können, wie bereits oben e
 ![III. Anzeigeeinstellungen (Alias).png](http://)
 
 - Alias-Präfix
-Optionale Angabe eines Präfix für die Erstellung des Alias.
+  Optionale Angabe eines Präfix für die Erstellung des Alias.
 
 - Alias-Postfix
-Optionale Angabe eines Postfix für die Erstellung des Alias.
+  Optionale Angabe eines Postfix für die Erstellung des Alias.
 
 - Alias-Felder
-Auswählen, um eine Neuerstellung des Alias zu erzwingen, wenn sich eines der abhängigen Felder ändert. Beachten Sie, dass bisherige URLs dadurch ungültig werden können.
+  Auswählen, um eine Neuerstellung des Alias zu erzwingen, wenn sich eines der abhängigen Felder ändert. Beachten Sie, dass               bisherige URLs dadurch ungültig werden können.
 
 
 ## Die Rendering-Einstellungen
@@ -82,10 +82,10 @@ Auswählen, um eine Neuerstellung des Alias zu erzwingen, wenn sich eines der ab
 Im Auswahlfenster für das Rendering können folgende Einstellungen vorgenommen werden:
 
 - Attribut
-Hier das jeweilige Attribut ausgewählt. In diesem Fall wäre dies das Attribut "Alias"
+  Hier das jeweilige Attribut ausgewählt. In diesem Fall wäre dies das Attribut "Alias"
 
 - Angepasstes Template für die Ausgabe
-Als Standard ist das Template "mm_attr_alias" ausgewählt.
+  Als Standard ist das Template "mm_attr_alias" ausgewählt.
 
 - Eigene CSS-Klasse
-Hier kann für das jeweilige Alias-Attribut eine eigene CSS-Klasse festegelegt werden.
+  Hier kann für das jeweilige Alias-Attribut eine eigene CSS-Klasse festegelegt werden.

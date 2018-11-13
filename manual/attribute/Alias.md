@@ -9,8 +9,7 @@ Im Auswahlfenster des Attributs „Alias“ können folgende Einstellungen vorge
 
 ![Alias.png](http://)
 
-** Typ, Benennung und Grundeinstellungen des Attributes
-**
+**Typ, Benennung und Grundeinstellungen des Attributes
 
 - Attribut-Typ
 - Spaltenname
@@ -18,16 +17,14 @@ Im Auswahlfenster des Attributs „Alias“ können folgende Einstellungen vorge
 - Beschreibung
 
 
-** Erweiterte Einstellungen
-**
+**Erweiterte Einstellungen
 
 - Varianten überschreiben
 - Eindeutige Werte
 - Neuerstellung des Alias erzwingen.
 
 
-** Anzeigeeinstellungen
-**
+**Anzeigeeinstellungen
 
 - Alias-Präfix
 - Alias-Postfix

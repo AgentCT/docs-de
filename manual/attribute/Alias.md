@@ -89,4 +89,3 @@ Als Standard ist das Template "mm_attr_alias" ausgewählt.
 
 - Eigene CSS-Klasse
 Hier kann für das jeweilige Alias-Attribut eine eigene CSS-Klasse festegelegt werden.
-

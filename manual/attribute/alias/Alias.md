@@ -6,7 +6,7 @@ Alias-Feld z.B. für URLs  der Alias kann als Kombination von verschiedenen (v
 
 Im Auswahlfenster des Attributs „Alias“ können folgende Einstellungen vorgenommen werden:
 
-![Alias.png](http://)
+![alias_i.png](alias_i.png)
 
 **Typ, Benennung und Grundeinstellungen des Attributes**
 
@@ -31,8 +31,7 @@ Im Auswahlfenster des Attributs „Alias“ können folgende Einstellungen vorge
 
 Im Abschnitt **Typ, Benennung und Grundeinstellungen des Attributes** können, wie bereits oben erwähnt verschiedene Einstellungen vorgenommen werden
 
-![I. Typ, Benennung und Grundeinstellungen des Attributes (Alias).png
-](http://)
+![alias_ii.png](alias_ii.png)
 
 - Attribut-Typ <br/>
 Hier wurde der Attribut-Typ „Alias“ ausgewählt. Bei der Auswahl eines anderen Attribut-Typs verändern sich die möglichen Einstellungen.
@@ -49,7 +48,7 @@ Der Beschreibungstext sorgt das eine Barrierefreiheit erreicht wird.
 
 Im Abschnitt **Erweiterte Einstellungen** des Attributes können, wie bereit oben erwähnt verschiedene Einstellungen vorgenommen werden.
 
-![II Erweiterte Einstellungen (Alias).png](http://)
+![alias_iii.png](alias_iii.png)
 
 - Varianten überschreiben <br/>
   Anwählen, falls Sie innerhalb des MetaModels Varianten wünschen um Elternwerte zu überschreiben.
@@ -63,7 +62,7 @@ Im Abschnitt **Erweiterte Einstellungen** des Attributes können, wie bereit obe
 
 Im Abschnitt **Anzeigeeinstellungen** des Attributes können, wie bereits oben erwähnt verschiedene Einstellungen vorgenommen werden:
 
-![III. Anzeigeeinstellungen (Alias).png](http://)
+![alias_iv.png](alias_iv.png)
 
 - Alias-Präfix <br/>
   Optionale Angabe eines Präfix für die Erstellung des Alias.
@@ -77,7 +76,7 @@ Im Abschnitt **Anzeigeeinstellungen** des Attributes können, wie bereits oben e
 
 ## Die Rendering-Einstellungen
 
-![Rendering-Einstellungen (Alias).png](http://)
+![alias_v.png](alias_v.png)
 
 Im Auswahlfenster für das Rendering können folgende Einstellungen vorgenommen werden:
 

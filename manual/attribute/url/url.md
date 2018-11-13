@@ -6,7 +6,7 @@ Im Feld URL können neben den Angaben in welcher Tabelle die Daten gespeichert w
 
 Im Auswahlfenster des Attributs „URL“ können folgende Einstellungen vorgenommen werden:
 
-![](http://)
+![URL.png](docs-de/manual/attribute/url/URL.png)
 
 **Typ, Benennung und Grundeinstellungen des Attributes**
 

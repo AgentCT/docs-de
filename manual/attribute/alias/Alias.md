@@ -111,7 +111,4 @@ Im Auswahlfenster für das Rendering können folgende Einstellungen vorgenommen 
 
 
 
-![alias_vi.png]alias_vi.png)
-
-
 

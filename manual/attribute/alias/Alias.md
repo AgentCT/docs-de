@@ -88,3 +88,30 @@ Im Auswahlfenster für das Rendering können folgende Einstellungen vorgenommen 
 
 - Eigene CSS-Klasse <br/>
   Hier kann für das jeweilige Alias-Attribut eine eigene CSS-Klasse festegelegt werden.
+
+## Die Eingabemaske
+
+![alias_vi.png](alias_vi.png)
+
+
+
+![alias_vii.png](alias_vii.png)
+
+
+
+![alias_viii.png](alias_viii.png)
+
+
+
+![alias_ix.png](alias_ix.png)
+
+
+
+![alias_x.png](alias_x.png)
+
+
+
+![alias_vi.png]alias_vi.png)
+
+
+

@@ -1,6 +1,4 @@
-# „Alias“
-
-## Das Attribut „Alias“
+# Das Attribut „Alias“
 
 **Kurzbeschreibung:**
 

@@ -91,24 +91,92 @@ Im Auswahlfenster für das Rendering können folgende Einstellungen vorgenommen 
 
 ## Die Eingabemaske
 
+Im Auswahlfenster für die Eingabemaske können folgende Einstellungen vorgenommen werden:
+
 ![alias_vi.png](alias_vi.png)
 
 
 
+
+**Typ**
+
 ![alias_vii.png](alias_vii.png)
 
+- Typ
+Wählen Sie den Attributstypen aus.
 
+- Alias
+Attribut, auf das sich diese Einstellung bezieht.
+
+
+
+
+**Funktionsbezogene Einstellungen**
 
 ![alias_viii.png](alias_viii.png)
 
+- Nur lesen
+Wenn aktiviert, erlaubt das Feld nur das Lesen und kann nicht geändert werden.
 
+- Pflichtfeld
+Wählen Sie diese Option, wenn das Attribut ein Pflichtfeld ist. 
+
+- Immer Speichern
+Falls angewählt, wird dieses Feld - unabhängig davon, ob sich sein Wert geändert hat - immer gespeichert, 
+
+
+
+**Anzeigeoptionen des Widgets**
 
 ![alias_ix.png](alias_ix.png)
 
+- Backend Klasse
+Hier können Sie eine oder mehrere Backend-Klassen festlegen. Benutzen Sie den Stylepicker für eine einfachere Auswahl der Backend-Klassen.
 
+Folgende Einstellungen sind möglich:
+
+**w50 (w50)**
+
+Setzt die Feldbreite auf 50% und floatet das Element (float:left).
+
+ **w50x (w50x)**
+
+Entfernt die Voreinstellung für eine feste Höhe. Bitte gemeinsam mit mit "w50" verwenden.
+
+**clr (clr)**
+
+Hebt alle Floats auf.
+
+**clx (clx)**
+
+Entfernt die Voreinstellung "overflow:hidden". Bitte gemeinsam mit mit "clr" verwenden.
+
+**long (long)**
+
+Sorgt dafür, dass das Eingabefeld zwei Spalten umfasst.
+
+**wizard (wizard)**
+
+Verkürzt das Eingabefeld, damit genug Platz für den Wizard (z.B. einen Date Picker) ist.
+
+**m12 (m12)**
+
+Fügt dem Element einen oberen Abstand von 12 Pixeln hinzu (z.B. für einzelne Checkboxen).
+
+
+
+
+
+
+
+**Auflistung, Filterung und Sortierung im Backend**
 
 ![alias_x.png](alias_x.png)
 
+- Filterbar
+Auswählen, falls dieses Attribut für die Filterung im Backend zur Verfügung stehen soll.
 
+- Suchbar
+Auswählen, falls dieses Attribut für die Suche im Backend zur Verfügung stehen soll.
 
 

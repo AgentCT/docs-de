@@ -318,10 +318,6 @@ Fügt dem Element einen oberen Abstand von 12 Pixeln hinzu (z.B. für einzelne C
 
 
 
-
-
-
-
 **Auflistung, Filterung und Sortierung im Backend**
 
 ![alias_x.png](alias_x.png)
@@ -331,23 +327,6 @@ Auswählen, falls dieses Attribut für die Filterung im Backend zur Verfügung s
 
 - Suchbar
 Auswählen, falls dieses Attribut für die Suche im Backend zur Verfügung stehen soll.
-
-
-
-
-Sorgt dafür, dass das Eingabefeld zwei Spalten umfasst.
-
-**wizard (wizard)**
-
-Verkürzt das Eingabefeld, damit genug Platz für den Wizard (z.B. einen Date Picker) ist.
-
-**m12 (m12)**
-
-Fügt dem Element einen oberen Abstand von 12 Pixeln hinzu (z.B. für einzelne Checkboxen).
-
-
-
-
 
 
 

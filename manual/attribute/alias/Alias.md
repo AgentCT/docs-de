@@ -288,31 +288,31 @@ Hier können Sie eine oder mehrere Backend-Klassen festlegen. Benutzen Sie den S
 
 Folgende Einstellungen sind möglich:
 
-**w50 (w50)** <br/>
+- **w50 (w50)** <br/>
 
 Setzt die Feldbreite auf 50% und floatet das Element (float:left).
 
- **w50x (w50x)** <br/>
+- **w50x (w50x)** <br/>
 
 Entfernt die Voreinstellung für eine feste Höhe. Bitte gemeinsam mit mit "w50" verwenden.
 
-**clr (clr)** <br/>
+- **clr (clr)** <br/>
 
 Hebt alle Floats auf.
 
-**clx (clx)** <br/>
+- **clx (clx)** <br/>
 
 Entfernt die Voreinstellung "overflow:hidden". Bitte gemeinsam mit mit "clr" verwenden.
 
-**long (long)** <br/>
+- **long (long)** <br/>
 
 Sorgt dafür, dass das Eingabefeld zwei Spalten umfasst.
 
-**wizard (wizard)** <br/>
+- **wizard (wizard)** <br/>
 
 Verkürzt das Eingabefeld, damit genug Platz für den Wizard (z.B. einen Date Picker) ist.
 
-**m12 (m12)** <br/>
+- **m12 (m12)** <br/>
 
 Fügt dem Element einen oberen Abstand von 12 Pixeln hinzu (z.B. für einzelne Checkboxen).
 

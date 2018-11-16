@@ -286,7 +286,10 @@ Falls angewählt, wird dieses Feld - unabhängig davon, ob sich sein Wert geänd
 - Backend Klasse <br/>
 Hier können Sie eine oder mehrere Backend-Klassen festlegen. Benutzen Sie den Stylepicker für eine einfachere Auswahl der Backend-Klassen.
 
+
 Folgende Einstellungen sind möglich:
+
+![alias_x.png](alias_x.png)
 
 - w50 (w50) <br/>
 
@@ -320,7 +323,7 @@ Fügt dem Element einen oberen Abstand von 12 Pixeln hinzu (z.B. für einzelne C
 
 **Auflistung, Filterung und Sortierung im Backend**
 
-![alias_x.png](alias_x.png)
+![alias_x.png](alias_xi.png)
 
 - Filterbar
 Auswählen, falls dieses Attribut für die Filterung im Backend zur Verfügung stehen soll.

@@ -1,6 +1,6 @@
 # Das Attribut „Checkbox“
 
-**Kurzbeschreibung:**
+**Kurzbeschreibung:**  <br/>
 Kontrollkästchen (Checkbox): einzelne Checkbox für Boolsche-Werte mit der Checkbox können Boolsche-Werte (0|1) gesetzt werden; eine spezielle Variante ist das „Veröffentlichen“ - damit erscheint im Backend das Icon „Auge“ wobei die Filterung für die Veröffentlichung selbst erstellt werden muss; als Spaltenname für den Wert Veröffenlichung wird allgemein „published“ verwendet; über die Option „Listview checkbox“ kann ein eigenes Icon im Backend zur Anzeige des Status Verwendung finden
 
 Im Auswahlfenster des Attributs „Checkbox“ können folgende Einstellungen vorgenommen werden:

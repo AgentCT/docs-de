@@ -20,7 +20,6 @@ Im Auswahlfenster des Attributs „URL“ können folgende Einstellungen vorgeno
 
 - Varianten überschreiben
 - Eindeutige Werte
-- Neuerstellung des Alias erzwingen.
 
 
 **Anzeigeeinstellungen**
@@ -64,10 +63,12 @@ Wird diese Funktion aktiviert wird im Frontend der Titel der URL entfernt.<br/>
 
 ## Die Rendering-Einstellungen
 
-![url_v.png](url_v.png)
+![ur![url_v.png](url_v.png)
 
-Im Auswahlfenster für das Rendering können folgende Einstellungen vorgenommen werden:
 
+**Typ** <br/>
+
+![ur![url_vi.png](url_vi.png)
 
 - Attribut <br/>
   Hier das jeweilige Attribut ausgewählt. In diesem Fall wäre dies das Attribut "Alias"
@@ -76,7 +77,91 @@ Im Auswahlfenster für das Rendering können folgende Einstellungen vorgenommen 
   Als Standard ist das Template "mm_attr_url" ausgewählt.
 
 - Eigene CSS-Klasse <br/>
-  Hier kann für das jeweilige Alias-Attribut eine eigene CSS-Klasse festegelegt werden.
+  Hier kann für das jeweilige URL-Attribut eine eigene CSS-Klasse festegelegt werden.
+
+
+**Erweitern**
+
+![ur![url_vii.png](url_vii.png)
 
 - Nicht in neuem Tab öffnen <br/>
 Falls ausgewählt wird die URL nicht in einem neuen Browsertab geöffnet.
+
+
+## Die Einstellungen in der Eingabemaske
+
+**Typ**
+
+![url_vi.png](url_vi.png)
+
+- Typ
+Wählen Sie den Attributstypen aus.
+
+- Attribute
+Attribut, auf das sich diese Einstellung bezieht.
+
+
+
+
+
+
+
+
+
+
+
+
+**Funktionsbezogene Einstellungen**
+
+![url_vii.png](url_vii.png)
+
+- Nur lesen
+Wenn aktiviert, erlaubt das Feld nur das Lesen und kann nicht geändert werden.
+
+- Pflichtgfeld
+Wählen Sie diese Option, wenn das Attribut ein Pflichtfeld ist.
+
+
+**Anzeigeoptionen des Widgets**
+
+![url_xi.png](url_xi.png)
+
+- Backend-Klasse
+Hier können Sie eine oder mehrere Backend-Klassen festlegen. Benutzen Sie den Stylepicker für eine einfachere Auswahl der Backend-Klassen.
+
+![url_xii.png](url_xii.png)
+
+Folgende Einstellungen sind möglich:
+
+
+**w50 (w50)**
+
+Setzt die Feldbreite auf 50% und floatet das Element (float:left).
+
+**w50x (w50x)**
+
+Entfernt die Voreinstellung für eine feste Höhe. Bitte gemeinsam mit mit "w50" verwenden.
+
+**clr (clr)**
+
+Hebt alle Floats auf.
+
+**clx (clx)**
+
+Entfernt die Voreinstellung "overflow:hidden". Bitte gemeinsam mit mit "clr" verwenden.
+
+**long (long)**
+
+Sorgt dafür, dass das Eingabefeld zwei Spalten umfasst.
+
+**wizard (wizard)**
+
+Verkürzt das Eingabefeld, damit genug Platz für den Wizard (z.B. einen Date Picker) ist.
+
+**m12 (m12)**
+
+Fügt dem Element einen oberen Abstand von 12 Pixeln hinzu (z.B. für einzelne Checkboxen).
+
+
+
+

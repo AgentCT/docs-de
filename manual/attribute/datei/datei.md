@@ -74,10 +74,10 @@ Im Auswahlfenster für das Rendering können folgende Einstellungen vorgenommen 
 ![datei_v.png](datei_v.png)
 
 - Attribut <br/>
-  Hier das jeweilige Attribut ausgewählt. In diesem Fall wäre dies das Attribut "Alias"
+  Hier das jeweilige Attribut ausgewählt. In diesem Fall wäre dies das Attribut "Datei"
 
 - Angepasstes Template für die Ausgabe <br/>
-  Als Standard ist das Template "mm_attr_datei" ausgewählt.
+  Als Standard ist das Template "mm_attr_file" ausgewählt.
 
 - Eigene CSS-Klasse <br/>
   Hier kann für das jeweilige Alias-Attribut eine eigene CSS-Klasse festegelegt werden
